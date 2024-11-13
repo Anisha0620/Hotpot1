@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HotPot1.props" />
+</Project>
